@@ -1,0 +1,10 @@
+# IDE specific
+/.vs
+/.idea
+
+# CMake files
+CMakeLists.txt.user
+CMakeSettings.json
+
+# Compile and build
+/out
